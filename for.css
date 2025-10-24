@@ -1,0 +1,72 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background:radial-gradient(#bffce7da);
+    
+}
+.container{
+    width: 100%;
+
+}
+.container .card{
+    width: 80%;
+    margin: auto;
+}
+.header{
+    justify-items: center;
+    font-size: 25px;
+    font-style: oblique;
+    
+    
+}
+.header h2{
+    color: lightsalmon;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.header p{
+    color: lightgreen;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 15px; 
+  line-height: 1.5;
+}
+.header a{
+    text-decoration: none;
+    padding-left: 10px;
+   
+}
+fieldset{
+    padding: 8px 8px;
+    margin:5px 5px;
+    width: 40%;
+    min-width: 320px;
+    border-radius: 8px;
+}
+legend{
+    font-size: 25px;
+    color:lightslategray;
+    padding: 5px 5px;
+}
+label{
+    display: block;
+    margin-top:8px;
+}
+input{
+    padding: 6px;
+
+}
+button{
+    margin-top: 5px;
+    border-radius: 6px;
+    padding: 5px 1px;
+    background-color: #333;
+    color:lightcoral;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+
+
+
+
+    

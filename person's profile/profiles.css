@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color:rgb(180, 212, 223);
+}
+fieldset{
+    background-color: rgb(253, 170, 253);
+    padding: 8px 8px;
+    margin:5px 5px;
+    width: 50%;
+    min-width: 320px;
+    border-radius: 8px;
+    margin: 20px auto; /* auto left/right centers horizontally */
+    display: block; /* ensures its treated in a block form */
+}
+li{
+    list-style-type: none;
+    color:lightslategray;
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: rgb(243, 243, 156);
+}
+ol{
+    text-align: center;
+}

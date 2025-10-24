@@ -31,6 +31,12 @@
   margin: auto;
   text-align: center; /* place text in center */
 }
+.container .row .header a{
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+  padding-left: 10px;
+}
 .container .row .header h1 {
   font-size: 50px; /* size is increased */
   color: lightpink;

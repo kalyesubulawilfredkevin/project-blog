@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(90, 109, 109);
+    margin: 50px;
+}
+ a{
+    text-decoration: none;
+    font-size: 18px;
+    padding-left: 10px;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    background-color:rgb(248, 224, 227);
+    color:gray;
+    padding: 5px;
+    border: 5px solid gray;
+    border-radius: 25px;
+
+}
+.nav ol{
+    display: flex;
+    list-style-type: none;
+
+}
+.nav ol li{
+    padding-left: 25px;
+}
+.nav button{
+    background-color: aquamarine;
+    color: white;
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 25px;
+    margin-top: 20px;
+}
+.biodata{
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    display: flex;
+    background-color: bisque;
+    color: cornflowerblue;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    justify-content: space-around;
+    margin-top: 5px;
+    
+}
+.div2{
+    display: flex;
+    justify-content: space-around;
+    color:cornflowerblue ;
+    background-color:rgb(219, 255, 147);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 5px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+
+
+}
